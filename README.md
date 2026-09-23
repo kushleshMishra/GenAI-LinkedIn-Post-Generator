@@ -279,6 +279,4 @@ If you find this project useful, consider giving the repository a ⭐ on GitHub.
 
 This project is intended for educational and portfolio purposes.
 
-```
-reference ko apne screenshot se replace kar dena.
-```
+
